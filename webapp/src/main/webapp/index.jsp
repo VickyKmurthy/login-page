@@ -1,8 +1,8 @@
 <form action="action_page.php">
   <div class="container">
      
-    <h1 style="background-color:rgba(255, 99, 71, 0.5);">Login Registration Page</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1 style="background-color:rgba(255, 99, 71, 0.5);text-align:center;">Login Registration Page</h1>
+    <p style="text-align:center;">Please fill in this form to create an account</p>
     <hr>
 
     <label for="Name"><b>Enter Name</b></label>
