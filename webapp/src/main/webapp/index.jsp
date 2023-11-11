@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
      
-    <h1 style="background-color:DodgerBlue;">New user Register for DevOps Learning</h1>
+    <h1 style="background-color:rgba(255, 99, 71, 0.5);">Login Registration Page</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
